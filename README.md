@@ -20,6 +20,6 @@ Fierce Console offers a bold and vibrant user experience with its red-themed des
 -Created using Figma.
 -Inspired by the passion for gaming and user-centric design.
 
-
+##
 Feel free to explore, ask questions and share Fierce Console design. 
 Happy designing!!
