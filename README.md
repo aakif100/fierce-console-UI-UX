@@ -8,7 +8,7 @@ Fierce Console offers a bold and vibrant user experience with its red-themed des
 
 ## Preview
 
-[Add your preview here]
+![finalproduct](https://github.com/aakif100/fierce-console-UI-UX/assets/137098447/58b65e1e-d3d3-41cb-8ee9-0d41c0f1b15e)
 
 ## Features
 
