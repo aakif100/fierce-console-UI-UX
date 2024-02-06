@@ -15,3 +15,7 @@ Fierce Console offers a bold and vibrant user experience with its red-themed des
 - Red color-themed design with options for blue, green, and yellow variants.
 - Intuitive user interface for seamless navigation.
 - Slogan: "You are fierced" embodies the spirit of gaming.
+
+## Acknowledgments
+-Created using Figma.
+-Inspired by the passion for gaming and user-centric design.
